@@ -1,0 +1,40 @@
+.log {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 70px
+}
+.log ul li{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.li{
+  color: #939CAA;
+}
+nav .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 0px;
+  gap: 30px;
+}
+
+nav .container button{
+    font-weight: 700;
+    font-size: 15px;
+    color: white;
+    background: #FCB72B;
+    width: 180px;
+    height: 53px;
+    border: none;
+    cursor: pointer;
+}
+
+.li.active{
+  color: black;
+}

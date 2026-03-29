@@ -1,0 +1,140 @@
+.bgabout {
+  background-image: url(./imgs/about_bg_img.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 25vh;
+  font-family: "Space Mono", monospace;
+}
+
+
+.bgabout .eych{
+  padding: 50px 150px;
+  color: white;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 56px;
+  letter-spacing: -2.5px;
+}
+.s_1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 200px;
+}
+
+.s_1 .s_1txt h1 {
+  color: #495567;
+  font-weight: 700;
+  font-size: 48px;
+  width: 455px;
+  line-height: 48px;
+  letter-spacing: -2.14px;
+  margin-bottom: 25px;
+}
+
+.s_1 .s_1txt p {
+  font-weight: 400;
+  font-size: 15px;
+  color: #939caa;
+  width: 445px;
+  margin-bottom: 30px;
+}
+
+.s_1 .s_1txt button {
+  font-weight: 700;
+  font-size: 15px;
+  color: white;
+  background: #fcb72b;
+  width: 180px;
+  height: 53px;
+  border: none;
+  cursor: pointer;
+}
+
+.val{
+  color: #495567;
+  font-weight: 700;
+  font-size: 48px;
+  display: flex;
+  justify-content: center;
+  padding: 100px 0px;
+}
+
+
+.valu_box{
+  width: 350px;
+  /* height: 312px; */
+  text-align: center;
+  position: relative;
+}
+
+.valu_box img{
+  margin-bottom: 70px;
+}
+
+.raqam{
+  position: absolute;
+  top: 190px;
+  left: 130px;
+}
+
+.valu_box h2{
+  font-weight: 700;
+  font-size: 24px;
+  color: #495567;
+  margin-bottom: 20px;
+}
+.valu_box p{
+  font-weight: 400;
+  font-size: 15px;
+  color: #939CAA;
+  margin-bottom: 20px;
+}
+
+.value_cards{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.faqs_box{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+
+.txt_1{
+  display: flex;
+  margin-bottom: 16px;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.txt_2 p{
+  color: #495567;
+  padding: 30px 20px;
+
+}
+
+.faqs_txt{
+  background: #F2F5F9;
+  width: 730px;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.faqs_txt_box{
+  display: flex;
+  flex-direction: column;
+}
+
+.faqqq{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-top: 200px;
+  font-weight: 700;
+  color: #495567;
+  font-size: 48px;
+}
