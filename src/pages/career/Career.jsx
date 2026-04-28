@@ -19,15 +19,15 @@ function Career() {
               </p>
               <button>Learn More</button>
             </div>
-            <img src="./public/imgs/Group 16.svg" alt="" />
+            <img src="/imgs/Group 16.svg" alt="" />
           </section>
 
           <section className="values">
             <h1 className="val">Our values</h1>
             <div className="value_cards">
               <div className="valu_box">
-                <img src="./public/imgs/Bitmap Copy.svg" alt="" />
-                <img className="raqam" src="./public/imgs/Group 31.svg" alt="" />
+                <img src="/imgs/Bitmap Copy.svg" alt="" />
+                <img className="raqam" src="/imgs/Group 31.svg" alt="" />
                 <h2>Our tech</h2>
                 <p>
                   We’re using cutting edge technology to drive accessible urban
@@ -36,8 +36,8 @@ function Career() {
                 </p>
               </div>
               <div className="valu_box">
-                <img src="./public/imgs/Bitmap Copy (1).svg" alt="" />
-                <img className="raqam" src="./public/imgs/Group 10 (1).svg" alt="" />
+                <img src="/imgs/Bitmap Copy (1).svg" alt="" />
+                <img className="raqam" src="/imgs/Group 10 (1).svg" alt="" />
                 <h2>Our integrity </h2>
                 <p>
                   We are fully committed to deliver a great yet safe,
@@ -45,8 +45,8 @@ function Career() {
                 </p>
               </div>
               <div className="valu_box">
-                <img src="./public/imgs/Bitmap Copy (2).svg" alt="" />
-                <img className="raqam" src="./public/imgs/Group 30.svg" alt="" />
+                <img src="/imgs/Bitmap Copy (2).svg" alt="" />
+                <img className="raqam" src="/imgs/Group 30.svg" alt="" />
                 <h2>Our community</h2>
                 <p>
                   We support every community we serve. All workers are paid a
