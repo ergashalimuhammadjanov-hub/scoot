@@ -17,9 +17,9 @@ function Home() {
       </div>
       <div className="container">
         <div className="cards">
-          <img className="chiziq" src="./imgs/Group 11.png" alt="" />
+          <img className="chiziq" src="/imgs/Group 11.png" alt="" />
           <div className="box">
-            <img src="./imgs/Group 8.svg" alt="" />
+            <img src="/imgs/Group 8.svg" alt="" />
             <h2>Locate with app</h2>
             <p>
               Use the app to find the nearest scooter to you. We are
@@ -28,7 +28,7 @@ function Home() {
             </p>
           </div>
           <div className="box">
-            <img src="./imgs/Group 9.svg" alt="" />
+            <img src="/imgs/Group 9.svg" alt="" />
             <h2>Pick your scooter</h2>
             <p>
               We show the most important info for the scooters closest to you.
@@ -37,7 +37,7 @@ function Home() {
             </p>
           </div>
           <div className="box">
-            <img src="./imgs/Group 10.svg" alt="" />
+            <img src="/imgs/Group 10.svg" alt="" />
             <h2>Enjoy the ride</h2>
             <p>
               Scan the QR code and the bike will unlock. Retract the cable lock,
@@ -58,10 +58,10 @@ function Home() {
             </p>
             <button>Learn More</button>
           </div>
-          <img src="./imgs/Group 15.png" alt="" />
+          <img src="/imgs/Group 15.png" alt="" />
         </section>
         <section className="sec_2">
-          <img src="./imgs/Group 14.png" alt="" />
+          <img src="/imgs/Group 14.png" alt="" />
           <div className="sec_2txt">
             <h1>Coming to a city near you</h1>
             <p>
@@ -84,7 +84,7 @@ function Home() {
             </p>
             <button>Learn More</button>
           </div>
-          <img src="./imgs/Group 18.png" alt="" />
+          <img src="/imgs/Group 18.png" alt="" />
         </section>
       </div>
     </div>

@@ -19,11 +19,11 @@ function About() {
             </p>
             <button>Learn More</button>
           </div>
-          <img src="./imgs/Group 15.svg" alt="" />
+          <img src="/imgs/Group 15.svg" alt="" />
         </section>
 
         <section className="s_1">
-          <img src="./imgs/Group 14.svg" alt="" />
+          <img src="/imgs/Group 14.svg" alt="" />
           <div className="s_1txt">
             <h1>Easy to use riding telemetry</h1>
             <p>
@@ -40,8 +40,8 @@ function About() {
           <h1 className="val">Our values</h1>
           <div className="value_cards">
             <div className="valu_box">
-              <img src="./imgs/Bitmap Copy.svg" alt="" />
-              <img className="raqam" src="./imgs/Group 31.svg" alt="" />
+              <img src="/imgs/Bitmap Copy.svg" alt="" />
+              <img className="raqam" src="/imgs/Group 31.svg" alt="" />
               <h2>Our tech</h2>
               <p>
                 We’re using cutting edge technology to drive accessible urban
@@ -50,8 +50,8 @@ function About() {
               </p>
             </div>
             <div className="valu_box">
-              <img src="./imgs/Bitmap Copy (1).svg" alt="" />
-              <img className="raqam" src="./imgs/Group 10 (1).svg" alt="" />
+              <img src="/imgs/Bitmap Copy (1).svg" alt="" />
+              <img className="raqam" src="/imgs/Group 10 (1).svg" alt="" />
               <h2>Our integrity </h2>
               <p>
                 We are fully committed to deliver a great yet safe, sustainable
@@ -59,8 +59,8 @@ function About() {
               </p>
             </div>
             <div className="valu_box">
-              <img src="./imgs/Bitmap Copy (2).svg" alt="" />
-              <img className="raqam" src="./imgs/Group 30.svg" alt="" />
+              <img src="/imgs/Bitmap Copy (2).svg" alt="" />
+              <img className="raqam" src="/imgs/Group 30.svg" alt="" />
               <h2>Our community</h2>
               <p>
                 We support every community we serve. All workers are paid a
@@ -79,7 +79,7 @@ function About() {
                 <div className="faqs_txt">
                   <div className="txt_1">
                     <h2>How do I download the app?</h2>
-                    <img src="./imgs/Path 3.svg" alt="" />
+                    <img src="/imgs/Path 3.svg" alt="" />
                   </div>
                   <div className="txt_2">
                     <p>
@@ -93,13 +93,13 @@ function About() {
                 <div className="faqs_txt">
                   <div className="txt_1">
                     <h2>Can I find a nearby Scoots?</h2>
-                    <img src="./imgs/Path 3 (1).svg" alt="" />
+                    <img src="/imgs/Path 3 (1).svg" alt="" />
                   </div>
                 </div>
                 <div className="faqs_txt">
                   <div className="txt_1">
                     <h2>Do I need a license to ride?</h2>
-                    <img src="./imgs/Path 3 (1).svg" alt="" />
+                    <img src="/imgs/Path 3 (1).svg" alt="" />
                   </div>
                 </div>
               </div>
@@ -111,7 +111,7 @@ function About() {
                 <div className="faqs_txt">
                   <div className="txt_1">
                     <h2>Should I wear a helmet?</h2>
-                    <img src="./imgs/Path 3.svg" alt="" />
+                    <img src="/imgs/Path 3.svg" alt="" />
                   </div>
                   <div className="txt_2">
                     <p>
@@ -125,13 +125,13 @@ function About() {
                 <div className="faqs_txt">
                   <div className="txt_1">
                     <h2>How about the rules & regulations?</h2>
-                    <img src="./imgs/Path 3 (1).svg" alt="" />
+                    <img src="/imgs/Path 3 (1).svg" alt="" />
                   </div>
                 </div>
                 <div className="faqs_txt">
                   <div className="txt_1">
                     <h2>What if I damage my Scoot?</h2>
-                    <img src="./imgs/Path 3 (1).svg" alt="" />
+                    <img src="/imgs/Path 3 (1).svg" alt="" />
                   </div>
                 </div>
               </div>
