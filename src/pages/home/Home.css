@@ -1,5 +1,5 @@
 .home {
-  background-image: url(./public/imgs/Bitmap.png);
+  background-image: url(/imgs/Bitmap.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
